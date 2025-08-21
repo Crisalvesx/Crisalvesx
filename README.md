@@ -22,3 +22,7 @@
 ## 📊 Estatísticas do GitHub
 ![Cristyan Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=Crisalvesx&show_icons=true&theme=dark)
 
+## 📊 Linguagens mais usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crisalvesx&layout=compact&theme=dark)
+
+
