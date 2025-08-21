@@ -20,6 +20,4 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Crisalvesx&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crisalvesx&layout=compact&theme=tokyonight)
-
+![GitHub Stats](https://github-profile-summary-for-free.herokuapp.com/user/Crisalvesx?theme=solarized-dark)
