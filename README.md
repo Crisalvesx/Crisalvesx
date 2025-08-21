@@ -20,4 +20,5 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-profile-summary-for-free.herokuapp.com/user/Crisalvesx?theme=solarized-dark)
+![Cristyan Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=Crisalvesx&show_icons=true&theme=dark)
+
