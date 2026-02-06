@@ -21,13 +21,6 @@
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Crisalvesx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
-    height="160"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crisalvesx&layout=compact&theme=dark"
-    height="160"
-  />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=crisalvesx&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crisalvesx&layout=compact&theme=dark)
